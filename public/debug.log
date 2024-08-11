@@ -1,0 +1,61 @@
+Array
+(
+    [REDIRECT_MIBDIRS] => C:/xampp/php/extras/mibs
+    [REDIRECT_MYSQL_HOME] => \xampp\mysql\bin
+    [REDIRECT_OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [REDIRECT_PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [REDIRECT_PHPRC] => \xampp\php
+    [REDIRECT_TMP] => \xampp\tmp
+    [REDIRECT_STATUS] => 200
+    [MIBDIRS] => C:/xampp/php/extras/mibs
+    [MYSQL_HOME] => \xampp\mysql\bin
+    [OPENSSL_CONF] => C:/xampp/apache/bin/openssl.cnf
+    [PHP_PEAR_SYSCONF_DIR] => \xampp\php
+    [PHPRC] => \xampp\php
+    [TMP] => \xampp\tmp
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_SEC_CH_UA] => "Microsoft Edge";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/Kokago/public/login/authenticate
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => id,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+    [HTTP_COOKIE] => PHPSESSID=4k4i68glsfr3d5q1mnmg0rg77d
+    [PATH] => C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\Joe Ferdinan\AppData\Local\Microsoft\WindowsApps;C:\Code\Microsoft VS Code\bin;C:\Users\Joe Ferdinan\AppData\Roaming\Composer\vendor\bin;C:\Users\Joe Ferdinan\AppData\Local\Programs\Python\Python311;C:\Users\Joe Ferdinan\.dotnet\tools;C:\xampp\php;
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/xampp/htdocs
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/xampp/htdocs
+    [SERVER_ADMIN] => postmaster@localhost
+    [SCRIPT_FILENAME] => C:/xampp/htdocs/Kokago/public/index.php
+    [REMOTE_PORT] => 50935
+    [REDIRECT_URL] => /Kokago/public/admin/dashboard
+    [REDIRECT_QUERY_STRING] => url=admin/dashboard
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => url=admin/dashboard
+    [REQUEST_URI] => /Kokago/public/admin/dashboard
+    [SCRIPT_NAME] => /Kokago/public/index.php
+    [PHP_SELF] => /Kokago/public/index.php
+    [REQUEST_TIME_FLOAT] => 1718165475.5249
+    [REQUEST_TIME] => 1718165475
+)
