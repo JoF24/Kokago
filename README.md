@@ -6,25 +6,19 @@ Melalui sistem ini, user dapat:
 - Melakukan reservasi tempat.
 - Melakukan pemesanan menu secara online.
 
----
-
 ## ✨ Fitur Utama
 - **Reservasi Online**: Pesan tempat dengan cepat dan mudah.
 - **Informasi Lokasi Cafe**: Lihat detail lokasi cafe.
 - **Pemesanan Menu**: Pesan menu sebelum tiba di cafe.
 
----
-
 ## 🛠️ Teknologi yang Digunakan
 - **Native PHP** – Sebagai backend.
 - **Bootstrap** – Untuk tampilan website yang responsif dan modern.
 
----
-
 ## ⚙️ Instalasi
 
 1. Clone repository ini:
-   ````
+````
    git clone https://github.com/JoF24/Kokago
 ````
 
@@ -32,12 +26,9 @@ Melalui sistem ini, user dapat:
 3. Pindahkan folder hasil clone (`Kokago`) ke dalam folder `htdocs` (jika menggunakan XAMPP).
 4. Jalankan server lokal (Apache & MySQL) melalui XAMPP.
 5. Buka project di browser:
-
    ```
    http://localhost/Kokago
    ```
-
----
 
 ## 📂 Struktur Folder (singkat)
 
