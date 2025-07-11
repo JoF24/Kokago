@@ -1,4 +1,4 @@
-# ☕ Kokago
+# 🏪 Kokago
 
 **Kokago** adalah **sistem reservasi berbasis website** untuk sebuah cafe.  
 Melalui sistem ini, user dapat:
