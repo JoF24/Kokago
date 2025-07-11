@@ -27,7 +27,7 @@ Melalui sistem ini, user dapat:
 4. Jalankan server lokal (Apache & MySQL) melalui XAMPP.
 5. Buka project di browser:
    ```
-   http://localhost/Kokago
+   http://localhost/Kokago/public
    ```
 
 ## 📂 Struktur Folder (singkat)
